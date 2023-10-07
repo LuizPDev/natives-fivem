@@ -1,0 +1,13 @@
+---
+ns: SCRIPT
+aliases: ["_GET_NO_LOADING_SCREEN"]
+---
+## GET_NO_LOADING_SCREEN
+
+```c
+// 0x18C1270EA7F199BC 0x27512BA0
+BOOL GET_NO_LOADING_SCREEN();
+```
+
+
+## Return value

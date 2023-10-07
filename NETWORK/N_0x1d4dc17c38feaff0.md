@@ -1,0 +1,15 @@
+---
+ns: NETWORK
+---
+## _0x1D4DC17C38FEAFF0
+
+```c
+// 0x1D4DC17C38FEAFF0 0xED4A272F
+BOOL _0x1D4DC17C38FEAFF0();
+```
+
+```
+IS_COMMERCE_*
+```
+
+## Return value
